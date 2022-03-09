@@ -18,10 +18,17 @@
 
 
 ## Conclusions
-- Conclusion 1 from the analysis
-- Conclusion 2 from the analysis
-- Conclusion 3 from the analysis
-- Conclusion 4 from the analysis
+Following variables are responsible to drive the credit default
+- Term
+- Interest rate
+- Grade
+- Sub-grade
+- Annual income
+Following are some specific recommendations
+- Loan given to customers for tenure of 60 months and interest rate lies between 15-20 are likely to 
+default as the percentage for the same group is higher in charged off data (48%) vs. fully paid (39%)
+- Loan given to customers for tenure of 60 months and in category D, E and F have 4%, 5%, 4% more 
+percentage in the charged off data than fully paid, hence these can be risky loan
 
 
 
@@ -32,14 +39,6 @@
 	- Pandas
 	- NumPy
 	- Plotly
-
-
-
-## Acknowledgements
-Give credit here.
-- This project was inspired by...
-- References if any...
-- This project was based on [this tutorial](https://www.example.com).
 
 
 ## Contact
